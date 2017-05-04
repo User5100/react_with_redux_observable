@@ -1,0 +1,32 @@
+.nav {
+	height: 50px;
+}
+
+.nav-menu {
+	display: block;
+}
+
+.nav-menu > .item {
+	padding: 0px 15px 14px 15px;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: black;
+}
+
+.panel-link {
+	-webkit-transition: background-color .2s;
+}
+
+.panel-link:hover {
+	background-color: #F1F1F1;
+}
+
+a:hover {
+	color: inherit !important;
+}
+
+.home {
+	margin-top: 50px;
+}
